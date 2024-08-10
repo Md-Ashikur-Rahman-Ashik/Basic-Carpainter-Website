@@ -28,11 +28,27 @@ body {
   width: 50%;
 }
 
-.about-heading{
-    font-weight: 900;
-    font-size: 40px;
+.about-heading {
+  font-weight: 900;
+  font-size: 40px;
 }
 
-.about-description{
-    font-size: 20px;
+.about-bold {
+  font-size: 20px;
+}
+
+.statistics {
+  display: flex;
+  justify-content: center;
+  gap: 4rem;
+}
+
+.statistics-count {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.count-number {
+  font-weight: 900;
 }
