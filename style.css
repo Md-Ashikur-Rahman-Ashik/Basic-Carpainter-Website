@@ -62,3 +62,12 @@ body {
 .count-number {
   font-weight: 900;
 }
+
+.explore-button {
+  margin-top: 2rem;
+  padding: 1rem 2rem;
+  background-color: brown;
+  border: 0;
+  color: white;
+  font-weight: 700;
+}
