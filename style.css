@@ -43,6 +43,16 @@ body {
   gap: 4rem;
 }
 
+.statistics-container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.statistics-container-img {
+  border-radius: 10px;
+}
+
 .statistics-count {
   display: flex;
   flex-direction: column;
