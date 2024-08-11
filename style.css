@@ -2,15 +2,15 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .about-us-section {
   display: flex;
   align-items: center;
   justify-content: center;
-  max-width: 1280px;
-  margin-left: auto;
-  margin-right: auto;
   margin-top: 1rem;
   gap: 2rem;
 }
@@ -70,4 +70,14 @@ body {
   border: 0;
   color: white;
   font-weight: 700;
+}
+
+.our-services {
+  margin-top: 8rem;
+}
+
+.services-heading {
+  font-weight: 900;
+  font-size: 40px;
+  text-align: center;
 }
